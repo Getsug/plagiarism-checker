@@ -5,3 +5,4 @@ The program gets input files from the user and outputs the similarity percentage
 ### NOTE
 The  program requires a minimum of 2 files. A maximum of 5 files can be provided.
 The files provied should be in the same directory as the program file.
+
